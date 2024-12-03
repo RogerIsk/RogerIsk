@@ -1,16 +1,16 @@
 <!-- Header -->
-<h1 align="center">✨ Python Developer / Tutor ✨</h1>
+<h1 align="center">✨ `Python Student / Tutor / Developer` ✨</h1>
 
 <!-- Description -->
 <p align="center">
-Hi! I'm a passionate developer and tutor with experience in various programming languages and tools. I love coding, teaching, and learning new technologies!
+Currently studying Python, I'm also a Tutor. I'm learning all kinds of technologies all the time.
+These are most of the technologies I know so far.
+
+
 </p>
 
 <!-- Icons for skills -->
 <p align="center">
-  <!-- PHP -->
-  <img src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-
   <!-- Heroku -->
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
 
@@ -79,4 +79,7 @@ Hi! I'm a passionate developer and tutor with experience in various programming 
 
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+
+    <!-- PHP -->
+  <img src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </p>
