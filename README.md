@@ -80,6 +80,6 @@ These are most of the technologies I know so far.
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
 
-    <!-- PHP -->
+  <!-- PHP -->
   <img src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </p>
