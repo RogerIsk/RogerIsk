@@ -14,6 +14,9 @@ These are most of the technologies I know so far.
   <!-- Heroku -->
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
 
+  <!-- PHP -->
+  <img src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+
   <!-- Flutter -->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
 
@@ -79,7 +82,4 @@ These are most of the technologies I know so far.
 
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-
-  <!-- PHP -->
-  <img src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </p>
