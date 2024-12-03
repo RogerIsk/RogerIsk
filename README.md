@@ -8,6 +8,27 @@ Hi! I'm a passionate developer and tutor with experience in various programming 
 
 <!-- Icons for skills -->
 <p align="center">
+  <!-- GitHub (Gray) -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+
+  <!-- Flask (Black) -->
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+
+  <!-- Heroku (Purple) -->
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
+
+  <!-- Kanban (Purple) -->
+  <img src="https://img.shields.io/badge/Kanban-0C4B6A?style=for-the-badge&logo=trello&logoColor=white" alt="Kanban">
+
+  <!-- ChatGPT / AI (Cyan) -->
+  <img src="https://img.shields.io/badge/ChatGPT-00A9E0?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+
+  <!-- CustomTkinter (Green) -->
+  <img src="https://img.shields.io/badge/CustomTkinter-7B8F7E?style=for-the-badge&logo=python&logoColor=white" alt="CustomTkinter">
+
+  <!-- Tkinter (Green) -->
+  <img src="https://img.shields.io/badge/Tkinter-008080?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter">
+
   <!-- Python (Blue) -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 
@@ -29,35 +50,8 @@ Hi! I'm a passionate developer and tutor with experience in various programming 
   <!-- PostgreSQL (Blue) -->
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 
-  <!-- Django (Green) -->
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-
-  <!-- Flask (Black) -->
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-
-  <!-- Heroku (Purple) -->
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
-
-  <!-- Git (Red) -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-
-  <!-- GitHub (Black) -->
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-
-  <!-- Visual Studio Code (Blue) -->
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
-  
-  <!-- Linux (Yellow) -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-
-  <!-- Ubuntu (Orange) -->
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-
   <!-- Microsoft Office (Yellow) -->
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office">
-
-  <!-- ChatGPT / AI (Green) -->
-  <img src="https://img.shields.io/badge/ChatGPT-00A9E0?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
 
   <!-- PHP (Blue) -->
   <img src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -65,14 +59,8 @@ Hi! I'm a passionate developer and tutor with experience in various programming 
   <!-- MySQL (Blue) -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 
-  <!-- CustomTkinter (Green) -->
-  <img src="https://img.shields.io/badge/CustomTkinter-7B8F7E?style=for-the-badge&logo=python&logoColor=white" alt="CustomTkinter">
-
-  <!-- Tkinter (Green) -->
-  <img src="https://img.shields.io/badge/Tkinter-008080?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter">
-
-  <!-- Kanban (Purple) -->
-  <img src="https://img.shields.io/badge/Kanban-0C4B6A?style=for-the-badge&logo=trello&logoColor=white" alt="Kanban">
+  <!-- PyQT6 (Orange) -->
+  <img src="https://img.shields.io/badge/PyQT6-01A9E1?style=for-the-badge&logo=python&logoColor=white" alt="PyQT6">
 
   <!-- Kivy (Red) -->
   <img src="https://img.shields.io/badge/Kivy-4B8BBE?style=for-the-badge&logo=kivy&logoColor=white" alt="Kivy">
@@ -80,12 +68,22 @@ Hi! I'm a passionate developer and tutor with experience in various programming 
   <!-- Flutter (Blue) -->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
 
-  <!-- PyQT6 (Orange) -->
-  <img src="https://img.shields.io/badge/PyQT6-01A9E1?style=for-the-badge&logo=python&logoColor=white" alt="PyQT6">
-
   <!-- Beautiful Soup (Yellow) -->
   <img src="https://img.shields.io/badge/Beautiful_Soup-FAE4B4?style=for-the-badge&logo=python&logoColor=white" alt="Beautiful Soup">
 
   <!-- Selenium (Orange) -->
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+
+  <!-- Ubuntu (Orange) -->
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+
+  <!-- Git (Red) -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+
+  <!-- Visual Studio Code (Blue) -->
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
+
+  <!-- Linux (Yellow) -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+
 </p>
