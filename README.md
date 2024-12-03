@@ -3,8 +3,10 @@
 
 <!-- Description -->
 <p align="center">
-Currently studying Python, I'm also a Tutor. I'm learning all kinds of technologies all the time.
+Currently studying Python and I'm also a Tutor at <a href="https://digitalcareerinstitute.org/" target="_blank">Digital Career Institute</a>. I'm learning all kinds of technologies all the time.<br>
+You can find me here: <a href="https://www.linkedin.com/in/roger-iskrenov-a612302b1/" target="_blank">LinkedIn</a><br>
 These are most of the technologies I know so far.
+</p>
 
 
 </p>
