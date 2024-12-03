@@ -19,9 +19,6 @@ These are most of the technologies I know so far.
 
 <!-- Icons for skills -->
 <p align="center">
-  <!-- PHP -->
-  <img src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  
   <!-- Heroku -->
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
 
