@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">✨ `Python Student / Tutor / Developer / Engineer` ✨</h1>
+<p align="center">✨ `Python Student / Tutor / Developer / Engineer` ✨</p>
 
 <!-- Description -->
 <p align="center">
