@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">✨ Python Student / Tutor / Developer / Engineer ✨</h1>
+<h1 align="center">✨ Python Engineer | Backend Developer | Tutor | Database & GUI Specialist ✨</h1>
 
 <!-- Description -->
 <p align="center">
