@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">✨ Python Engineer | Backend Developer | Database & GUI Specialist ✨</h1>
+<h3 align="center">✨ Python Engineer | Backend Developer | Database & GUI Specialist ✨</h3>
 
 <!-- Description -->
 <p align="center">
