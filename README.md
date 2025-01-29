@@ -61,6 +61,9 @@ These are most of the technologies I know so far.
   <!-- Tkinter -->
   <img src="https://img.shields.io/badge/Tkinter-008080?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter">
 
+  <!-- Django -->
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+
   <!-- Selenium -->
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
 
