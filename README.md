@@ -3,7 +3,7 @@
 
 <!-- Description -->
 <p align="center">
-Studied Python and Tutored at <a href="https://digitalcareerinstitute.org/" target="_blank">Digital Career Institute</a>. 
+Tutored at <a href="https://digitalcareerinstitute.org/" target="_blank">Digital Career Institute</a>. 
 Studied C++ In Technical University.<br> 
 
 <p align="center"> 
