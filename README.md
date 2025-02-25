@@ -3,8 +3,7 @@
 
 <!-- Description -->
 <p align="center">
-Tutored at <a href="https://digitalcareerinstitute.org/" target="_blank">Digital Career Institute</a>. 
-Studied C++ In Technical University.<br> 
+Tutored at <a href="https://digitalcareerinstitute.org/" target="_blank">Digital Career Institute</a>. <br> 
 
 <p align="center"> 
 You can find me here: <a href="https://www.linkedin.com/in/roger-iskrenov-a612302b1/" target="_blank">LinkedIn</a><br>
