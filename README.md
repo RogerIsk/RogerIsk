@@ -1,10 +1,8 @@
 <!-- Header -->
-<h2 align="center">✨ Python Backend Developer | Software Engineer | Fullstack ✨</h2>
+<h2 align="center">✨ Python Backend Developer | C++ Software Engineer | Fullstack ✨</h2>
 
 <!-- Description -->
 <p align="center">
-Python / C++ Backend Developer & Engineer | Database & GUI Specialist. Passionate about finding solutions.<br>
-  
 Studied Python and Tutored at <a href="https://digitalcareerinstitute.org/" target="_blank">Digital Career Institute</a>. 
 Studied C++ In Technical University.<br> 
 
