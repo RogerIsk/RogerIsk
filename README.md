@@ -13,7 +13,7 @@ You can find me here: <a href="https://www.linkedin.com/in/roger-iskrenov-a61230
 </p>
 
 <p align="center">
-These are most of the technologies I know so far.
+These are some of the technologies I know so far.
 </p>
 
 
@@ -29,6 +29,8 @@ These are most of the technologies I know so far.
 
   <!-- C++ -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+
+  <img src="https://img.shields.io/badge/Pygame-3333FF?style=for-the-badge&logo=pygame&logoColor=white" alt="Pygame">
 
   <!-- CSS -->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
