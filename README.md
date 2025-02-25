@@ -24,7 +24,7 @@ These are some of the technologies I know so far.
   <!-- Heroku -->
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
 
-    <!-- Pygame -->
+  <!-- Pygame -->
   <img src="https://img.shields.io/badge/Pygame-3333FF?style=for-the-badge&logo=pygame&logoColor=white" alt="Pygame">
 
   <!-- Flutter -->
