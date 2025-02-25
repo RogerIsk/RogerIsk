@@ -3,7 +3,9 @@
 
 <!-- Description -->
 <p align="center">
-Currently studying Python and also a Tutor at <a href="https://digitalcareerinstitute.org/" target="_blank">Digital Career Institute</a>. 
+Python / C++ Backend Developer & Engineer | Database & GUI Specialist. Passionate about finding solutions.<br>
+  
+Studied Python and was a Tutor at <a href="https://digitalcareerinstitute.org/" target="_blank">Digital Career Institute</a>. 
 I'm learning all kinds of technologies all the time.<br> 
 
 <p align="center"> 
