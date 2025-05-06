@@ -1,5 +1,5 @@
 <!-- Header -->
-<h2 align="center">✨ Python Backend Developer | C++ Software Engineer | Fullstack ✨</h2>
+<h2 align="center">✨ Python Backend Developer ✨</h2>
 
 <!-- Description -->
 <p align="center">
